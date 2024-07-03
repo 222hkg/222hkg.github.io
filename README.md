@@ -81,6 +81,8 @@
 6，[隆中对](https://v.douyin.com/i6H79xRo/)
 7，[卧龙出山](https://v.douyin.com/i6H7cxyQ/)
 8，[吴国太嫁人，刘备当接盘侠](https://v.douyin.com/i6HcC3Yj/)
+9，[袁绍总结](https://v.douyin.com/i6H3S8jj/)
+10，
 
 ## 图片
 
