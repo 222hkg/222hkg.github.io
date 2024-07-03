@@ -80,6 +80,8 @@
 5，[吴国太是你的](https://v.douyin.com/i6H79xRo/)
 6，[隆中对](https://v.douyin.com/i6H79xRo/)
 7，[卧龙出山](https://v.douyin.com/i6H7cxyQ/)
+8，[吴国太嫁人，刘备当接盘侠](https://v.douyin.com/i6HcC3Yj/)
+
 ## 图片
 
 
