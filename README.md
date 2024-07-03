@@ -41,6 +41,8 @@
 ![图片，，，](./qq.png)
   >> 微
 
+### 屁股决定脑袋
+[车上和车下的位置不同，意味着立场不同](https://photo.baidu.com/photo/wap/albumShare/share/75997136071947416?from=linkShare)
 
 
 ## 视频
