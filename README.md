@@ -78,8 +78,8 @@
 3，[诸葛亮功成身退](https://v.douyin.com/i6H7daDS/)
 4，[桃园结义](https://v.douyin.com/i6HWo2JT/)
 5，[吴国太是你的](https://v.douyin.com/i6H79xRo/)
-
-
+6，[隆中对](https://v.douyin.com/i6H79xRo/)
+7，[卧龙出山](https://v.douyin.com/i6H7cxyQ/)
 ## 图片
 
 
