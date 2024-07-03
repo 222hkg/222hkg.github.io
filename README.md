@@ -40,7 +40,7 @@
 ![图片，，，](./qq.png)
   >> 微
 
-[我视频捏](./小李.mp4)
+[我视频捏](https://photo.baidu.com/photo/wap/albumShare/share/27143205929874584?from=linkShare)
 
 
 
