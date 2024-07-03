@@ -53,8 +53,15 @@
    
 
 ## 视频
-[小李](https://photo.baidu.com/photo/wap/albumShare/share/27143205929874584?from=linkShare)
-[嘟嘟醉](https://h5.pipix.com/s/i6m3b8PB/)
+[盛夏的果实](https://h5.pipix.com/s/i6HGpMXP/)
+[小李](https://h5.pipix.com/s/i6m3b8PB/)
+[张雪峰，文科就是服务业](https://h5.pipix.com/s/i6HGSRMw/)
+[中国为何只能走社会主义道路](https://h5.pipix.com/s/i6HGBpGW/)
+[三百年内重大发明没有中国人？](https://h5.pipix.com/s/i6HGBj9S/)
+[牛马](https://h5.pipix.com/s/i6HGTJwA/)
+[暖暖](https://h5.pipix.com/s/i6HGvLQX/)
+
+
 
 ## 图片
 
