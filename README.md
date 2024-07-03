@@ -52,7 +52,7 @@
 
 ## 图片
 
-![哈哈哈哈1](./qq.png)
+![哈哈哈哈1](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0517%2F93bbb031j00rc179s00ffc000o000dim.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
 
 ## Python
