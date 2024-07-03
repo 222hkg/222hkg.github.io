@@ -28,7 +28,7 @@
     古代封建王朝没有一个超过300年，历史反复上演，道理都懂，却没有一个王朝愿意去改变，
     
 
-> 什么是[佃户](https://zhidao.baidu.com/question/991461279207700539/answer/4012922016.html)？
+> 什么是[佃户](https://zhidao.baidu.com/question/991461279207700539/answer/4012922016.html)？和佃农的区别
 
 
 
