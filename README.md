@@ -70,7 +70,7 @@
 ### 一二和布布
 
 1.[布布没带头盔](https://v.douyin.com/i6HnUxAh/) 
-2.
+2.[糖糖数学考了8分](https://v.douyin.com/i6Hv223T/)
 
 ###  三国史
 1.[曹丕曹植之争](https://v.douyin.com/i6HnpQLS/)
