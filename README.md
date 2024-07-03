@@ -48,6 +48,10 @@
 车上的既得利益者总想保持自己的利益，这就是人性的自私，脑袋跟着屁股走，你的屁股坐在什么位置上，你的脑袋就会随之产生什么样的想法，原先没有的想法，现在都有了
 
 
+> 关于内卷
+
+   
+
 ## 视频
 [小李](https://photo.baidu.com/photo/wap/albumShare/share/27143205929874584?from=linkShare)
 [嘟嘟醉](https://h5.pipix.com/s/i6m3b8PB/)
