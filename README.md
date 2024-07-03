@@ -64,7 +64,7 @@
 ## AR-HUD
 HUD（head up display抬头显示器）是将重要信息显示在挡风玻璃上的一种显示系统，基本原理是：投影仪发出的光信息，经过一系列的折射、反射等投影到挡风玻璃上，人眼就能看到投射在上面的信息，感觉信息就像悬浮在前方一样。
 
-   ![](./图片/1.jpeg)
+   [tu](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0517%2F93bbb031j00rc179s00ffc000o000dim.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
 
 
