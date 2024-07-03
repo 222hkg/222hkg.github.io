@@ -47,8 +47,7 @@
 
 ## 视频
 [小李](https://photo.baidu.com/photo/wap/albumShare/share/27143205929874584?from=linkShare)
-
-[https://h5.pipix.com/s/i6m3b8PB/]
+[嘟嘟醉](https://h5.pipix.com/s/i6m3b8PB/)
 
 ## 图片
 
