@@ -74,6 +74,10 @@
 
 ###  三国史
 1.[曹丕曹植之争](https://v.douyin.com/i6HnpQLS/)
+2，[吕布没爹](https://v.douyin.com/i6HW3FpL/)
+3，[诸葛亮功成身退](https://v.douyin.com/i6H7daDS/)
+4，[桃园结义](https://v.douyin.com/i6HWo2JT/)
+5，[吴国太是你的](https://v.douyin.com/i6H79xRo/)
 
 
 ## 图片
