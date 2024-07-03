@@ -161,9 +161,9 @@ HUD（head up display抬头显示器）是将重要信息显示在挡风玻璃�
 
 ## C➕➕
 
-1，std::count，标准输出
-2，标准输出，cont << 变量 << endl;
-3，
+1. std::count，标准输出
+2. 标准输出，cont << 变量 << endl;
+3. 
 
 ## 相对论/光速/时间
 
