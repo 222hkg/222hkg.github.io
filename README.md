@@ -57,6 +57,7 @@
 ## Python
 
 - np.random.normal()函数用于生成正态分布函数，有三个参数。第一个参数是随机数的期望值，对应的是整个分布的中心；第二个是随机数的标准差，数越大越矮胖；第三个数是生成随机数的个数，默认为NONE，则只输出一个数
+- shape（）函数的功能是读取矩阵或数组的长度，shape（0）是读取行数，shape（1）是读取列数
 
 ### openCV库
 
@@ -102,6 +103,9 @@ HUD（head up display抬头显示器）是将重要信息显示在挡风玻璃�
 
 
 ## 卡尔曼滤波算法(kalman filter)
+
+![img_v3_02bt_4488bf6f-eaf8-4f67-b648-d89f2e47b29g](https://github.com/222hkg/222hkg.github.io/assets/83269196/296fe3e4-8a52-4bf1-886c-399634b0f479)
+
 
 ## C➕➕
 
