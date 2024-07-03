@@ -68,7 +68,7 @@
 
 ### 一二和布布
 
-[步步没带头盔](https://v.douyin.com/i6HnUxAh/ x@F.uf 07/26 pqe:/)
+[步步没带头盔](https://v.douyin.com/i6HnUxAh/)
 
 ## 图片
 
