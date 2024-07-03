@@ -107,6 +107,7 @@ HUD（head up display抬头显示器）是将重要信息显示在挡风玻璃�
 
 ## 卡尔曼滤波算法(kalman filter)
  算法思想：用预测值和观测值 的**加权**来求解最优估计值，从而不断逼近真值。得知道两个值的方差。
+![image](https://github.com/222hkg/222hkg.github.io/assets/83269196/6cb79028-cacb-446b-856c-d0d51b8856ab)
 
  如何加权捏？我们知道
 
