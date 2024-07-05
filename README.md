@@ -29,7 +29,9 @@
  ---
  
 
+[新疆大学物理学院夏令营](https://phy.xju.edu.cn/info/1133/3172.htm)
 
+[北京师范大学物理与天文学院天文系夏令营](https://xly.bnu.edu.cn/www/xly/xly/detail?id=62a49211-d706-4405-b544-9b6813a116b4)
 
 
 ---
