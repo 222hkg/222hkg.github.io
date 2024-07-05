@@ -17,7 +17,8 @@
 本科毕业于[新疆大学物理科学与技术学院](https://phy.xju.edu.cn/)，毕业论文指导老师：[王淑英老师/教授](https://phy.xju.edu.cn/info/1121/2164.htm)
 
 硕士毕业于BNU物理与天文学院，导师是[安维明老师/教授](https://astro.bnu.edu.cn/zw/gk/szdw/zrjs/js/102182.html)
-
+在老师指导下，曾获得物中国物理学会[2022年学术会议优秀海报奖](http://meeting.cps-net.org.cn/sustech2022/multiinfo/74)
+，发表学术期刊
  ***
  ---
  
