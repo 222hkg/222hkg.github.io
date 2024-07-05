@@ -15,6 +15,9 @@
 ![](./20240704-220111.png "我的签名")
 
 本科毕业于[新疆大学物理科学与技术学院](https://phy.xju.edu.cn/)，毕业论文指导老师：[王淑英老师](https://phy.xju.edu.cn/info/1121/2164.htm)
+
+硕士毕业于BNU物理与天文学院，导师是[安维明](https://astro.bnu.edu.cn/zw/gk/szdw/zrjs/js/102182.html)
+
  ***
  ---
  
