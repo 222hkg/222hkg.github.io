@@ -18,8 +18,18 @@
 
 ---
 
-```
 
+> 数据读取-图像
+```
+import cv2
+
+image = cv2.imread(r"D:\1111\OIP-C.jpg")
+
+cv2.imshow("image", image)
+
+cv2.waitKey(0)  # 等待时间，毫秒级， 在键盘键入个0，表示任意时刻终止
+
+cv2.destroyAllWindows()
 ```
 
 
