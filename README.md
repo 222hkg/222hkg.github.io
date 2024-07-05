@@ -11,7 +11,7 @@
 > 愿许清风知我意，散我心中意难平
 
 - [x] 我是hkg
-- [x] [anhui](https://baike.baidu.com/item/%E5%AE%89%E5%BE%BD%E7%9C%81/526353)省滁州市凤阳县
+- [x] [安徽](https://baike.baidu.com/item/%E5%AE%89%E5%BE%BD%E7%9C%81/526353)省滁州市凤阳县
 
 ![](./20240704-220111.png "我的签名")
 
