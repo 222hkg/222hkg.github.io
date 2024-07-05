@@ -18,7 +18,7 @@
 
 硕士毕业于BNU物理与天文学院，导师是[安维明老师/教授](https://astro.bnu.edu.cn/zw/gk/szdw/zrjs/js/102182.html)
 在老师指导下，曾获得物中国物理学会[2022年学术会议优秀海报奖](http://meeting.cps-net.org.cn/sustech2022/multiinfo/74)
-，发表学术期刊
+，发表学术期刊[等离子密度对尾场加速器中最优束流负载的影响](http://www.bnujournal.com/article/doi/10.12202/j.0476-0301.2023166)
  ***
  ---
  
