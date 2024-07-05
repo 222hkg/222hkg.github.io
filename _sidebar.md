@@ -4,6 +4,8 @@
 
 * [社会 政治 经济 历史 文化](/1/1.md)
   
+* [视频](/note/note.md)
+  
 * [Pyhon](/pyhon/pyhon.md)
 
 * [Slam](slam/slam/slam.md)
@@ -16,16 +18,20 @@
 
 * [C++](cpp/1.md)
 
-* [相对论/光速/时间]()
+* [相对论/光速/时间](kepu/1.md)
 
 * [卫星定轨](gnss/1.md)
 
 * [刘珂矣](liu/1.md)
 
+* [github中readme编写规范](rd/1.md)
+
+* [项目](work/1.md)
+
 * 
 
 
 
-* [视频](/note/note.md)
+
 
 * [阅读](/read/read.md)
