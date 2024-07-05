@@ -12,7 +12,7 @@
 
 * [Zeamx](zemax/1.md)
 
-* [kalman filter](kalman filter/1.md)
+* [kalman filter](kalmanfilter/1.md)
 
 * [C++](cpp/1.md)
 
