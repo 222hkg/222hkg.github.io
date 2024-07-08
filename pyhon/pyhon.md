@@ -6,100 +6,24 @@
 - shape（）函数的功能是读取矩阵或数组的长度，shape（0）是读取行数，shape（1）是读取列数
 
 
-### OpenCV库
+### 爬虫
 
-##### 图像数字化处理
-    1，一般的图像不能直接用计算机处理，必须先将图像转化为"数字图像"。把图像分割为一个个像素，每个像素的亮度或者灰度用一个整数表示——图像数字化
+```ptthon
+import requests
 
-    2，什么是灰度图像数字化，所谓数字化，就是化成同行同列的二维数组，而每个坐标存的就是相关的灰度值(0到255)，一个字节存放8bit，按照二进制存放数值，也就是2的8次方，是256
-
-    3，彩色图像数字化同灰度图像数字化类似，彩色图像为三通道图像且可拆分为三张同等像素的灰度图，
-
-    4，数字图像处理就是通过对数字图像像素数据进行判断，逐个修改像素的灰度值
-
----
-
-
-> 数据读取-图像
-- cv2.IMREAD_COLORS:彩色图像
-- cv2.IMREAD_GRAYSCALE: 灰度图像
-  
-```python
-import cv2
-
-image = cv2.imread(r"D:\1111\OIP-C.jpg")
-
-cv2.imshow("image", image)
-
-cv2.waitKey(0)  # 等待时间，毫秒级， 在键盘键入个0，表示任意时刻终止
-
-cv2.destroyAllWindows()
+req = requests.get('https://rate.bot.com.tw/xrt?Lang=zh-TW')
+#
+print(req.text)
 ```
 
-输出：
 
 
 
 
 ```python
-import cv2
-import matplotlib.pyplot as plt
-import numpy as np
+import pandas
 
+dfs = pandas.read_html('https://rate.bot.com.tw/xrt?Lang=zh-TW')
 
-image = cv2.imread(r"D:\1111\OIP-C.jpg")  # 读取图像
-
-# print(image)   # 输出一个ndarray数组
-
-print(image.shape)
-
-print(type(image))  # 图像类型
-
-print(image.size)  # 像素点的个数
-
-print(image.dtype)  # 数据类型
+print(dfs[0])
 ```
-
-输出结果：
-
-    (355, 474, 3)
-    <class 'numpy.ndarray'>
-    504810
-    uint8
-
-
-ndarray 是一个多维数组
-
->  读取视频
-视频是由许多帧结合在一起的集合，每帧都是一个图像。要使用opencv看视频，用while循环显示视频的每一帧
-
-```python
-import cv2
-
-vc = cv2.VideoCapture(r"D:\1111\1.mp4")
-
-
-# 检查是否打开正确
-if vc.isOpened():
-    open, frame = vc.read()
-
-else:
-    open = False
-
-while open:
-    ret, frame = vc.read()
-    if frame is None:
-        break
-    if ret == True:
-        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)  # 将图像转为灰度图
-        cv2.imshow('result', gray)
-        if cv2.waitKey(10) & 0xFF == 27:
-            break
-
-vc.release()
-cv2.destroyAllWindows()
-
-
-
-```
-
