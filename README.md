@@ -26,7 +26,7 @@
 
 2 [大学生数学竞赛新疆赛区一等](https://mp.weixin.qq.com/s/JK12FDrq0Thcwr0rGBTbIA)
 
-3.[诺贝尔奖获得者校友]()
+3.[诺贝尔奖获得者校友](https://baike.baidu.com/item/莫言/941736?fr=ge_ala)
  ***
  ---
  
