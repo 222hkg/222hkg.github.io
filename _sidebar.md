@@ -14,7 +14,7 @@
 
 * [AR-HUD](arhud/1.md)
 
-* [Zeamx](zemax/1.md)
+* [光学设计软件](zemax/1.md)
 
 * [kalman filter](kalmanfilter/1.md)
 
