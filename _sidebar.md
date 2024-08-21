@@ -8,7 +8,7 @@
 
 * [计算机视觉算法-图像处理/特征提取等等](/计算机视觉/1.md)
   
-* [Pyhon](/pyhon/pyhon.md)
+* [Python](/pyhon/pyhon.md)
 
 * [Slam](slam/slam/slam.md)
 
